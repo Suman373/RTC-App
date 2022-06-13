@@ -367,6 +367,13 @@ button {
   margin:3rem auto;
   width: 23rem;
 }
+.chat-header h1{
+  font-size:1.5rem;
+  padding-bottom:3px;
+}
+.chat-header{
+  height:auto;
+}
  .inner-msg{
   font-size:1rem;
   padding:3px;
@@ -387,7 +394,7 @@ button {
 /* login window */
 @media screen and (max-width: 436px) {
   .login {
-    margin: 1rem auto;
+    margin: 5rem auto;
     width: 20rem;
   }
   .login h1 {
