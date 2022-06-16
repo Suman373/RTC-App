@@ -21,7 +21,7 @@
           />
         </label>
         <label for="password" name="password"
-          >Password:<span id="opt">(optinal)</span>
+          >Password:<span id="opt">(optional)</span>
           <input
             type="password"
             v-model="inputPassword"
